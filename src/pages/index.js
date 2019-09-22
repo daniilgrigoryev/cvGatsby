@@ -1,3 +1,3 @@
 import React from "react"
-
-export default () => <div>Hello world!</div>
+import Card from "../components/Card"
+export default () => <Card content="Привет Мир"></Card>

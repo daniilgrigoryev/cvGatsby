@@ -1,3 +1,33 @@
 body {
+  font-family: "Gotham SSm", Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  line-height: 1.42857;
+  color: #222;
   background-color: #f2f2f2;
+
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.txt-muted {
+  color: #656565;
+}
+p {
+  margin: 0 0 30px;
+  line-height: 21px;
+}
+h2 {
+  line-height: 27px;
+  font-weight: 400;
+  font-size: 21px;
+}
+h3 {
+  line-height: 24px;
+  font-size: 17px;
+  font-weight: 500;
+}
+h4 {
+  line-height: 23px;
+  font-size: 15px;
+  font-weight: 500;
 }

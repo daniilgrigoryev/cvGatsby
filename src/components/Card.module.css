@@ -1,0 +1,17 @@
+.card {
+  box-shadow: 0 1px 6px rgba(57, 73, 76, 0.35);
+  position: relative;
+  background-color: #fff;
+}
+.header {
+  border-bottom: 1px solid #e0e0e0;
+  background-color: #f9f9f9;
+  padding: 30px;
+}
+.header h2 {
+  word-break: break-word;
+  margin: 0;
+}
+.section {
+  padding: 20px 30px;   
+}

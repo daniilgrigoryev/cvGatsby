@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "Gotham";
+  font-weight: normal;
+  font-style: normal;
+  src: url("../fonts/GothmanSSM/GothamSSm-Book.eot");
+  src: url("../fonts/GothmanSSM/GothamSSm-Book-.eot#iefix")
+      format("embedded-opentype"),
+    url("../fonts/GothmanSSM/GothamSSm-Book.woff") format("woff"),
+    url("../fonts/GothmanSSM/GothamSSm-Book.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Gotham";
+  font-weight: 600;
+  font-style: normal;
+  src: url("../fonts/GothmanSSM/GothamSSm-Medium.eot");
+  src: url("../fonts/GothmanSSM/GothamSSm-Medium-.eot#iefix")
+      format("embedded-opentype"),
+    url("../fonts/GothmanSSM/GothamSSm-Medium.woff") format("woff"),
+    url("../fonts/GothmanSSM/GothamSSm-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Gotham";
+  font-weight: 200;
+  font-style: normal;
+  src: url("../fonts/GothmanSSM/GothamSSm-Light.eot");
+  src: url("../fonts/GothmanSSM/GothamSSm-Light-.eot#iefix")
+      format("embedded-opentype"),
+    url("../fonts/GothmanSSM/GothamSSm-Light.woff") format("woff"),
+    url("../fonts/GothmanSSM/GothamSSm-Light.ttf") format("truetype");
+}
